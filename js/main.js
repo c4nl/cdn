@@ -15,7 +15,7 @@ video.appendChild(source);
 video.pause();
 
 function enterSite() {
-  var title = new MovingTitle("cockbin.lol | Work in progress   ", 250, 15);
+  var title = new MovingTitle("cockbin.lol | New and refurbished   ", 250, 15);
   title.init();
   video.volume = 0.15;
 	video.play();
